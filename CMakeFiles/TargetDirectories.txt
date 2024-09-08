@@ -1,0 +1,5 @@
+C:/Users/zbn02/Desktop/STM32_NUCLEO-G474RE_Demo/CMakeFiles/STM32_NUCLEO-G474RE_Demo.dir
+C:/Users/zbn02/Desktop/STM32_NUCLEO-G474RE_Demo/CMakeFiles/edit_cache.dir
+C:/Users/zbn02/Desktop/STM32_NUCLEO-G474RE_Demo/CMakeFiles/rebuild_cache.dir
+C:/Users/zbn02/Desktop/STM32_NUCLEO-G474RE_Demo/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/zbn02/Desktop/STM32_NUCLEO-G474RE_Demo/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
